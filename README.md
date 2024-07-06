@@ -8,6 +8,7 @@
 > MICCAI2024
 
 ![backbone](https://github.com/CUMT-IRSI/DnFPlane/assets/174862475/8ea572ad-8b05-481b-932f-4b03f88d9da8)
+![backbone](https://github.com/CUMT-IRSI/DnFPlane/assets/174862475/0384128b-d48f-4e37-bb34-30259df6bda7)
 
 ## Schedule
 - [x] Initial Code Release.
