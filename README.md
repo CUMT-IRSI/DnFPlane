@@ -7,7 +7,8 @@
 >  R. Bu and C. Xu—Equal contribution. \
 > MICCAI2024
 
-![](dnfplanes/DnFPlane.png)
+![Uploading Fig2-changed.png…]()
+
 
 ## Schedule
 - [x] Initial Code Release.
