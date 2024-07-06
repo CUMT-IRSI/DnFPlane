@@ -19,7 +19,11 @@ Reconstruction of deformable tissues in robotic surgery from endoscopic stereo v
 we propose an efficient algorithm designed to address the reconstruction challenges arising from depth distortion in complex scenarios. Unlike previous methods that treat each feature plane equally in the dynamic and static field, our framework guides the static field with the dynamic field, generating a dynamic-mask to filter features at the time level. This allows the network to focus on more active dynamic features, reducing depth distortion. In addition, we design a module to address dynamic blurring. Using the dynamic-mask as a guidance, we iteratively refine color values through Gated Recurrent Units (GRU), improving the clarity of tissues detail in the reconstructed results. Experiments on a public endoscope dataset demonstrate that our method outperforms existing state-of-the-art methods without compromising training time. Furthermore, our approach shows outstanding reconstruction performance in occluded regions, making it a more reliable solution in medical scenarios.
 ## DnFPlane VS LerPlane in terms of rendering quality
 
-https://github.com/Greatxcw/DnFPlane/assets/118790158/1cf59d5f-9ce2-453c-95cf-1fcc1f0a5acc
+
+
+https://github.com/CUMT-IRSI/DnFPlane/assets/174862475/b81ddb5a-ec73-42b6-9d73-a84d37ea024b
+
+
 
 ## Installation
 
