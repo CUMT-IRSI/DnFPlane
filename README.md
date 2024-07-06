@@ -78,6 +78,5 @@ We would like to acknowledge the following inspiring work:
 - [K-Planes](https://sarafridov.github.io/K-Planes/) (Fridovich-Keil et al.)
 - [LerPlane](https://github.com/Loping151/ForPlane) (Yang et al.)
 
-## Questions
-For further question about the code or paper, welcome to create an issue, or contact 'tb22060022a41@cumt.edu.cn' or 'ts22060197p31@cumt.edu.cn'
+
 
