@@ -7,8 +7,7 @@
 >  R. Bu and C. Xu—Equal contribution. \
 > MICCAI2024
 
-![Uploading Fig2-changed.png…]()
-
+![backbone](https://github.com/CUMT-IRSI/DnFPlane/assets/174862475/8ea572ad-8b05-481b-932f-4b03f88d9da8)
 
 ## Schedule
 - [x] Initial Code Release.
