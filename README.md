@@ -1,6 +1,7 @@
 # DnFPlane:DnFPlane For Efficient and High-Quality 4D Reconstruction of Deformable Tissues（MICCAI2024）
 
-### [Paper]()
+### [Paper]()[Paper-2081.pdf](https://github.com/user-attachments/files/16115503/Paper-2081.pdf)
+
 
 > [DnFPlane For Efficient and High-Quality 4D Reconstruction of Deformable Tissues]() \
 > Ran Bu, Chenwei Xu, Jiwei Shan, Hao Li, Guangming Wang, Yanzi Miao, Hesheng Wang \
